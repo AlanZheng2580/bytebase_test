@@ -1,2 +1,2 @@
--- Insert two new records, 'John Doe' and 'Jane Smith', into the user_test2 table
+-- Insert two new records, 'John Doe' and 'Jane Smith', into the user_test2 table 2
 INSERT INTO user_test2 (username) VALUES ('John Doe'), ('Jane Smith');
