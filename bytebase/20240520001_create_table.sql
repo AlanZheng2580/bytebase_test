@@ -1,0 +1,3 @@
+CREATE TABLE user_test7 (
+    user_id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY COMMENT '使用者 ID，自動增量'
+)
